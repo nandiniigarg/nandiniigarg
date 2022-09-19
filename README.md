@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## Welcome to my GitHub profile
-<img align="left" src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif"/>
+<img align="left" src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif" width=300 height=300/>
 I'm a young developer on the road to becoming an amazing data scientist. Here's a little bit about me!
 
 <b>Languages that I'm profecient in:</b><br>
