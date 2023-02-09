@@ -45,4 +45,5 @@ I'm a young developer on the road to become a data scientist. Here's a little bi
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandiniigarg2001@gmail.com)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandiniigarg&show_icons=true&locale=en&layout=compact" alt="nandiniigarg" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandiniigarg&show_icons=true&locale=en" alt="nandiniigarg" /></p>
 
