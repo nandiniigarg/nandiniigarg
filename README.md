@@ -44,5 +44,3 @@ I'm a young developer on the road to become a data scientist. Here's a little bi
 [![Twitter](https://img.shields.io/badge/nanduugee-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/nanduugee)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandiniigarg2001@gmail.com)
 
-
-![Nandini's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandiniigarg&show_icons=true&theme=cobalt) &nbsp; &nbsp; &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandiniigarg&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
