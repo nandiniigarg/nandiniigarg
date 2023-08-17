@@ -46,7 +46,6 @@ I'm a young developer on the road to become a Computer Science Engineer. Current
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ## You can find me on 
-[My Resume](https://nandiniigarg.github.io/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandinigarg000/)
 [![Twitter](https://img.shields.io/badge/nanduugee-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/nanduugee)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandiniigarg2001@gmail.com)
